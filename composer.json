@@ -1,0 +1,17 @@
+{
+    "name": "helling/unifiapi",
+    "description": "A package made in PHP for making easy API Requests to all Unifi Controllers.",
+    "type": "library",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Helling\\Unifiapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tobias Helling"
+        }
+    ],
+    "require": {}
+}
